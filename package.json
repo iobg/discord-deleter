@@ -21,6 +21,6 @@
     "btoa": "^1.2.1",
     "discord-oauth2": "^2.3.0",
     "express": "^4.17.1",
-    "node-fetch": "^2.6.0"
+    "node-fetch": "^2.6.7"
   }
 }
